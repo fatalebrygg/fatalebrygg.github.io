@@ -27,7 +27,15 @@ Inngredienser
 
 ### Humle
 
+- 30g Columbus - "Columbus", "US", 2012, Acid(16.1)
+- 72g Citra - US, 2013, Acid(13.4)
+- 98g Citra - US, 2014, Acid(13.5)
+- 45g Amarillo - US, 2012, Acid(9.7)
+
 ### Gjær
+
+- A: wyeast 1056 american ale
+- B: wyeast 1318 London ale III
 
 Steg for steg
 -------------
@@ -48,35 +56,39 @@ Steg for steg
 ### Koking
 
 60min
+
 - 30g Columbus - "Columbus", "US", 2012, Acid(16.1)
 
 15min
+
 - 24g Citra - US, 2013, Acid(13.4)
 
 5min
+
 - 24g Citra
 
 0min
+
 - 24g Citra
 
-Kjøling
+### Kjøling
 
 OG 1068
 
 ### Gjæring
 
-A: wyeast 1056 american ale
-B: wyeast 1318 London ale III
+- A: wyeast 1056 american ale
+- B: wyeast 1318 London ale III
 
 Etter 28 dager:
+
 - 98g Citra - US, 2014, Acid(13.5)
 - 45g Amarillo - US, 2012, Acid(9.7)
 
 
 ### Tapping
 
-FG:
-
+FG: ???
 
 B var resteslumpen med litt mer humle rest (noe datt ut av humlefilteret).
 
