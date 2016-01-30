@@ -4,6 +4,7 @@ title:  "Kald Kjeller!"
 date:   2015-07-04 13:57:20 +0100
 categories: bryggelog
 tag:
+  - Pils
   - Speidel
 bryggere:
   - Stein Kåre
