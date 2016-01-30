@@ -11,7 +11,7 @@ bryggere: Stein Kåre
 
 Bryggedag 2015-07-09
 
-Inspiration: http://beersmithrecipes.com/viewrecipe/17432/citra-double-ipa-clone-kern-river-brewing-company-cybi-podcast-version
+Inspiration: [http://beersmithrecipes.com/viewrecipe/17432/citra-double-ipa-clone-kern-river-brewing-company-cybi-podcast-version](http://beersmithrecipes.com/viewrecipe/17432/citra-double-ipa-clone-kern-river-brewing-company-cybi-podcast-version)
 
 Speidel: Program 6
 
